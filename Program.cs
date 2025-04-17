@@ -10,6 +10,3 @@ catch (FormatException)
 	Console.WriteLine("Invalid Input!");
 }
 Console.ReadKey();
-
-
-Console.WriteLine("hello world");
